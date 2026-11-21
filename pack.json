@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:715a69bf07052ce42f29f2bc4609c3efa1b54fc24a63b8889817dcd53f022005
-size 326
+{
+  "name": "Felix Factory",
+  "repository": "Felix-Mcorg/felix-modpack",
+  "branch": "main",
+  "minecraft": { "version": "1.20.1", "loader": "forge", "loaderVersion": 1.20.1-47.4.28 },
+  "server": { "address": "flixfactory.mcsh.gg", "autoConnect": true },
+  "include": ["*"],
+  "exclude": [],
+  "includeFiles": [],
+  "external": []
+}
