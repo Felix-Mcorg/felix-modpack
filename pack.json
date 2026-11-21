@@ -3,7 +3,7 @@
   "repository": "Felix-Mcorg/felix-modpack",
   "branch": "main",
   "minecraft": { "version": "1.20.1", "loader": "forge", "loaderVersion": null },
-  "server": { "address": "felixfactory.mcsh.gg", "autoConnect": true },
+  "server": { "address": "flixfactory.mcsh.gg", "autoConnect": true },
   "include": ["*"],
   "exclude": [],
   "includeFiles": [],
