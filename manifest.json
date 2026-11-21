@@ -1,16 +1,9 @@
 {
-  "schema": 1,
-  "name": "Felix Factory",
-  "version": "2026.11.21.1318",
-  "minecraft": {
-    "version": "1.20.1",
-    "loader": "forge",
-    "loaderVersion": null
-  },
-  "server": {
-    "address": "flixfactory.mcsh.gg",
-    "autoConnect": true
-  },
+  "minecraft": "1.20.1",
+  "loader": "forge",
+  "loader_version": "1.20.1-47.4.28",
+  "server": "flixfactory.mcsh.gg",
+  "resourcepack": "",
   "files": [
     {
       "path": "mods/alexscaves-2.0.2.jar",
