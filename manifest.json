@@ -1,4 +1,17 @@
-
+{
+  "schema": 1,
+  "name": "Felix Factory",
+  "version": "2026.11.21.1318",
+  "minecraft": {
+    "version": "1.20.1",
+    "loader": "forge",
+    "loaderVersion": null
+  },
+  "server": {
+    "address": "felixfactory.mcsh.gg",
+    "autoConnect": true
+  },
+  "files": [
     {
       "path": "mods/alexscaves-2.0.2.jar",
       "url": "https://raw.githubusercontent.com/Felix-Mcorg/felix-modpack/main/game/mods/alexscaves-2.0.2.jar",
