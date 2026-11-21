@@ -5,10 +5,10 @@
   "minecraft": {
     "version": "1.20.1",
     "loader": "forge",
-    "loaderVersion": "1.20.1-47.4.28"
+    "loaderVersion": null
   },
   "server": {
-    "address": "flixfactory.mcsh.gg",
+    "address": "felixfactory.mcsh.gg",
     "autoConnect": true
   },
   "files": [
